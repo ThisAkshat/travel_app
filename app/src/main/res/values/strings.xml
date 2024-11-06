@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">travel_app</string>
+    <string name="introTitle">Uncover new <font color='#3f95ec'>\n horizons</font> with us</string>
+    <string name="subIntro">Design by \n Akshat Sharma</string>
+</resources>
